@@ -1,1 +1,1 @@
-# Data-Viz-CSV
+# This contains files that state the high and low temperatures for Sitka, Alaska and Death Valley, California in 2018. These files are read and converted into graphs that display these numbers visually. The first three graphs are only for Sitka, Alaska, and the last is a comparison to show the vast difference between Sitka, Alaska and Death Valley, California.
